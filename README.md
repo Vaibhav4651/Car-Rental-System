@@ -1,2 +1,2 @@
 # Car-Rental-System
-This Repository Belongs to the Car Rental System . Which is made by using PHP,CSS,HTML and JS . 
+A car rental system can be built using HTML, CSS, and JavaScript for the front-end interface, allowing users to browse and select vehicles. PHP handles the back-end operations like booking management, user authentication, and database interactions. JavaScript enhances the user experience with dynamic content and validation, while CSS ensures a responsive and visually appealing design. This system facilitates online car reservations and real-time availability checks.
